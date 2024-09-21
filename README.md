@@ -13,4 +13,4 @@ This is a Hello World program. This was created to demonstrate the use of VS Cod
 # Useful Websites
 
 * [Python Download](https://www.python.org/downloads/)
-* [Visual Studios](https://code.visualstudio.com/download)
+* [Visual Studio](https://code.visualstudio.com/download)
